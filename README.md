@@ -1,0 +1,1 @@
+# m-namiki/rust-template
