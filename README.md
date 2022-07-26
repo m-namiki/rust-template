@@ -1,1 +1,1 @@
-# m-namiki/rust-template
+# m-namiki/rust-template-for-vscode
