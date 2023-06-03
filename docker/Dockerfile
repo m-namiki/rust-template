@@ -1,4 +1,4 @@
-FROM rust:1.70.0-slim-buster
+FROM rust:slim-bullseye
 
 RUN apt-get update && \
     apt-get -y install git && \
